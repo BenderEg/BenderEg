@@ -13,6 +13,4 @@ Technology stack:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-- 🌱 I’ve just finished a great course from Yandex 
-- 👯 I’m looking to collaborate on backend Python project
 - 📫 How to reach me: https://t.me/BenderEg
